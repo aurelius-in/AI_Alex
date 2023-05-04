@@ -1,5 +1,30 @@
 ## AI_Alex
 
+### Types of problematic comments that Alex AI bot could respond to:
+
+1. Comments that use racist, sexist, or other discriminatory language.
+2. Comments that make unfounded claims about election fraud or other conspiracies.
+3. Comments that promote hate speech or encourage violence.
+4. Comments that demonize individuals or groups based on their political beliefs.
+5. Comments that use derogatory or dehumanizing language towards immigrants or minorities.
+6. Comments that use extremist language to express political opinions.
+7. Comments that spread disinformation or misinformation about public health issues.
+8. Comments that deny climate change or other scientific facts.
+9. Comments that engage in victim-blaming or shaming.
+10. Comments that perpetuate stereotypes or biases.
+11. Comments that use inflammatory or derogatory language towards law enforcement or the justice system.
+12. Comments that promote xenophobia or anti-immigrant sentiments.
+13. Comments that use extremist religious language to justify harmful behaviors.
+14. Comments that promote anti-vaccine or anti-mask sentiments.
+15. Comments that engage in ad hominem attacks or name-calling.
+16. Comments that promote white supremacist ideologies or symbols.
+17. Comments that use derogatory or dehumanizing language towards the LGBTQ+ community.
+18. Comments that engage in gaslighting or other forms of psychological manipulation.
+19. Comments that dismiss or invalidate the lived experiences of marginalized communities.
+20. Comments that promote violent or extremist ideologies like QAnon or other far-right movements. 
+
+Again, each of these types of comments requires a nuanced and context-dependent response that encourages respectful discourse while discouraging harmful thinking.
+
 ### Examples
 
 1. "I don't believe in climate change. It's all a hoax."
