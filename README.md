@@ -171,4 +171,4 @@ Response: "I understand that it can be difficult to hear about privilege when yo
 Response: "While personal responsibility is important, not everyone has equal access to healthcare or the means to pay for it. Let's focus on finding solutions that can ensure everyone has access to quality healthcare."
 
 57. Comment: "I don't understand why we need to have all these gun control laws. It's my right to bear arms!"
-Response: "While the Second Amendment does protect the right to bear arms, it's also important to consider the safety of others and find common ground on how we can reduce gun violence. Let's try to have a constructive dialogue about this issue."
+Response: "While the Second Amendment does protect the right to bear arms, it's also important to consider the safety of others and find common ground on how we can reduce gun violence. Let's try to have a constructive dialogue about this issue." 
