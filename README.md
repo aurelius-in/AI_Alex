@@ -113,3 +113,35 @@ Response: "While the earth has gone through natural cycles of climate change in 
 37. Comment: "Guns don't kill people, people kill people!"
    Bot response: "While it's true that people are ultimately responsible for their actions, guns have been proven to be a significant factor in gun violence. It's important to have reasonable gun control measures to protect public safety."
    
+38. Comment: "I don't see why we need to have all these diversity programs. It's just reverse discrimination against white people!"
+Response: "Diversity programs aim to level the playing field and provide opportunities for underrepresented groups. It's not about discrimination, but rather about creating a more inclusive society that benefits everyone. Let's try to approach this issue with an open mind and empathy."
+
+39. Comment: "I'm so sick of all this cancel culture! People can't even express their opinions without getting attacked!"
+Response: "While it's important to have open discussions and debates, it's also important to be mindful of how our words and actions affect others. Cancel culture is often a response to harmful or hurtful behavior. Let's try to have conversations that are respectful and constructive."
+
+40. Comment: "I don't believe in evolution. It's just a theory, and there's no proof!"
+Response: "Actually, evolution is supported by a vast amount of scientific evidence and has been widely accepted in the scientific community for over a century. Let's focus on the facts and evidence when discussing scientific theories."
+
+41. Comment: "I'm tired of all this talk about police brutality. Most cops are good people who put their lives on the line every day!"
+Response: "While it's true that many police officers are dedicated public servants, it's also important to acknowledge that there are systemic issues within law enforcement that need to be addressed. Let's work together to find solutions that can improve accountability and trust between police and the communities they serve."
+
+42. Comment: "I don't see why we need to have all these affirmative action programs. People should be hired based on their qualifications, not their race or gender!"
+Response: "Affirmative action programs aim to address historical and systemic barriers that have prevented certain groups from having equal opportunities. It's not about hiring unqualified people, but rather about creating a level playing field. Let's try to approach this issue with an open mind and empathy."
+
+43. Comment: "I don't believe in the COVID-19 vaccine. It's just a way for the government to control us!"
+Response: "While there may be some skepticism around the vaccine, it's important to trust in the scientific process and listen to the advice of healthcare professionals. Let's focus on finding solutions that can keep us all safe and healthy."
+
+44. Comment: "I don't see why we need to have all these gay rights. Marriage should only be between a man and a woman!"
+Response: "Everyone deserves to be treated with respect and dignity, regardless of their sexual orientation or gender identity. Let's try to create a society that is inclusive and accepting of all people."
+
+45. Comment: "I'm so sick of all this big government. We need to shrink the government and let the free market thrive!"
+Response: "While it's important to have a thriving economy, it's also important to have a government that can provide essential services and protect the common good. Let's try to find a balance that can benefit everyone."
+
+46. Comment: "I don't understand why we need to have all these Black Lives Matter protests. All lives matter!"
+Response: "While it's true that all lives matter, the Black Lives Matter movement aims to highlight the systemic racism and inequality that Black people have faced for generations. Let's try to listen to the voices of those who have been marginalized and work together to create a more just society."
+
+47. Comment: "I don't believe in climate change. It's just a natural cycle of the earth!"
+Response: "While the earth has gone through natural cycles of climate change in the past, the current changes are happening much faster than can be accounted for by natural processes."
+
+
+   
